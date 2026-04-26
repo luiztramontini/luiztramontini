@@ -27,8 +27,8 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas através do c�
 
 ### 📊 Estatísticas do GitHub:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luiztramontiniI&show_icons=true&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luiztramontiniI&layout=compact&theme=radical)
 
 ---
 
