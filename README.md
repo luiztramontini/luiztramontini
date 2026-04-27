@@ -1,8 +1,8 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Luiz Tramontini! 👋
 
 ### 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Sou um entusiasta da tecnologia apaixonado por resolver problemas através do código. Atualmente, foco meus estudos no ecossistema **Python** e **C#**, explorando tanto o poder do Back-end quanto a criatividade do **Front-end**.
+Sou um entusiasta da tecnologia apaixonado por resolver problemas através do código. Atualmente, foco meus estudos no ecossistema **Python** e **JavaScript**, explorando tanto o poder do Back-end quanto a criatividade do **Front-end**.
 
 ---
 
@@ -11,7 +11,6 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas através do c�
 * 🔭 Atualmente cursando **ADS**.
 * 💻 Desenvolvendo projetos para aprimorar minhas habilidades em **Front-end**.
 * 🐍 Aprofundando conhecimentos em **Python** (Automação e Data Science).
-* ⚔️ Explorando o universo .NET com **C#**.
 
 ---
 
@@ -19,7 +18,7 @@ Sou um entusiasta da tecnologia apaixonado por resolver problemas através do c�
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | `Python`, `C#`, `JavaScript` |
+| **Linguagens** | `Python`, `JavaScript` |
 | **Front-end** | `HTML5`, `CSS3`, `React/Vue (opcional)` |
 | **Ferramentas** | `Git`, `GitHub`, `VS Code`, `Visual Studio` |
 ---
