@@ -1,24 +1,54 @@
-# Olá, eu sou o Luiz Tramontini! 👋
+👋 Olá, eu sou Luiz Antônio
 
-### 🚀 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+💻 Estudando e desenvolvendo projetos voltados para Inteligência Artificial e Machine Learning
 
-Sou um entusiasta da tecnologia apaixonado por resolver problemas através do código. Atualmente, foco meus estudos no ecossistema **Python** e **JavaScript**, explorando tanto o poder do Back-end quanto a criatividade do **Front-end**.
+🚀 Atualmente aprendendo mais sobre programação, automação, análise de dados e modelos de IA
 
----
+📚 Sempre buscando evoluir e criar projetos práticos para aprender cada vez mais
 
-### 🛠️ No que eu trabalho:
+🧠 Áreas de Interesse
 
-* 🔭 Atualmente cursando **ADS**.
-* 💻 Desenvolvendo projetos para aprimorar minhas habilidades em **Front-end**.
-* 🐍 Aprofundando conhecimentos em **Python** (Automação e Data Science).
+Inteligência Artificial
+Machine Learning
+Deep Learning
+Python
+Automação
+Análise de Dados
+Desenvolvimento de Projetos
 
----
+⚙️ Tecnologias que estou aprendendo
 
-### 🧪 Tecnologias e Ferramentas:
+Python
+NumPy
+Pandas
+Scikit-Learn
+TensorFlow
+Git & GitHub
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | `Python`, `JavaScript` |
-| **Front-end** | `HTML5`, `CSS3`, `React/Vue (opcional)` |
-| **Ferramentas** | `Git`, `GitHub`, `VS Code`, `Visual Studio` |
----
+📌 Objetivos
+
+Criar projetos reais com IA
+Aprender modelos de Machine Learning
+Melhorar minhas habilidades em Python
+Desenvolver um portfólio sólido no GitHub
+Evoluir constantemente como desenvolvedor
+
+📊 GitHub Stats
+
+Plain text
+Em construção 🚧
+
+🚀 Projetos
+
+Em breve novos projetos relacionados a:
+IA
+Machine Learning
+Automação
+Análise de dados
+
+📫 Contato
+
+GitHub: SEU_LINK_AQUI
+Instagram: SEU_INSTAGRAM_AQUI
+
+“A prática leva à evolução.” ⚡
