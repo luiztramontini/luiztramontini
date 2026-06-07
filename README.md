@@ -29,5 +29,7 @@ I'm passionate about building intelligent systems and exploring the endless poss
 📫 Contact
 
 Feel free to connect with me and explore my projects.
+id: tramontini.luiz 
+E-mail: luiztramontinim@gmail.com 
 
 «"Artificial Intelligence is not just about machines learning — it's about humans creating new possibilities."»
